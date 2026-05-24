@@ -46,7 +46,7 @@ The following libraries are used:
 
 This helps detect imbalance between classes.
 ![Dataset Preview](image1.png)
-
+![Image](image3b.png)
 ---
 
 ### 3.3 Train–Validation–Test Split
