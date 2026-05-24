@@ -55,7 +55,7 @@ This helps detect imbalance between classes.
   - Final test set  
 - Stratified sampling is used to maintain class balance  
 
-📷 *(Insert screenshot of split results here)*
+
 
 ---
 
@@ -68,7 +68,7 @@ This helps detect imbalance between classes.
   - Efficient batch loading  
   - Optional augmentation  
 
-📷 *(Insert screenshot of generator setup here)*
+
 
 ---
 
@@ -76,8 +76,7 @@ This helps detect imbalance between classes.
 - Class indices are retrieved  
 - Sample images are displayed with labels to verify correctness  
 
-📷 *(Insert sample images here)*
-
+![Image](image6b.png)
 ---
 
 ## 🧠 4. Model Building
@@ -89,7 +88,7 @@ This helps detect imbalance between classes.
   - Optimizer  
   - Accuracy metric  
 
-📷 *(Insert model architecture diagram here)*
+![Image](image8b.png)
 
 ---
 
@@ -102,8 +101,7 @@ This helps detect imbalance between classes.
 - Metrics tracked:
   - Accuracy  
   - Loss  
-
-📷 *(Insert training logs / epochs screenshot here)*
+![Image](image9b.png)
 
 ---
 
@@ -112,7 +110,7 @@ This helps detect imbalance between classes.
 - Training vs Validation Accuracy  
 - Training vs Validation Loss  
 
-📷 *(Insert accuracy & loss graphs here)*
+
 
 ---
 
@@ -123,7 +121,7 @@ This helps detect imbalance between classes.
   - Training set  
   - Validation/Test set  
 
-📷 *(Insert evaluation output here)*
+
 
 ---
 
@@ -131,14 +129,13 @@ This helps detect imbalance between classes.
 - Predictions are generated on test data  
 - Probabilities are converted into class labels  
 
-📷 *(Insert prediction output here)*
+![Image](image9b.png)
 
 ---
 
 ### 6.3 Confusion Matrix
 - Confusion matrix is computed to analyze classification performance  
-
-📷 *(Insert confusion matrix heatmap here)*
+![Image](image10b.png)
 
 ---
 
@@ -148,7 +145,7 @@ Includes:
 - Recall  
 - F1-score  
 
-📷 *(Insert classification report screenshot here)*
+
 
 ---
 
@@ -157,7 +154,9 @@ Includes:
   - Test new MRI images  
   - Output predicted class  
 
-📷 *(Insert example prediction on custom image here)*
+![Image](image11b.png)
+![Image](image12b.png)
+![Image](image13b.png)
 
 ---
 
