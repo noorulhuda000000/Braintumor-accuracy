@@ -45,7 +45,7 @@ The following libraries are used:
   - Testing dataset  
 
 This helps detect imbalance between classes.
-image1.png
+![Dataset Preview](image1.png)
 
 ---
 
